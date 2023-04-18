@@ -338,7 +338,7 @@ table {
     }
 
     .regular:not(.likes-page):not(.following-page) .sidebar .widget-title {
-        text-transform: uppercase;
+        text-transform: lowercase;
         font-weight: 700;
         font-size: 13px;
         margin-bottom: 10px
@@ -1454,7 +1454,7 @@ body.following-page .content {
     color: #b4b4b4;
     font-size: 14px;
     font-weight: 700;
-    text-transform: uppercase
+    text-transform: lowercase
 }
 
 .reblog-list {
@@ -1510,7 +1510,7 @@ body.following-page .content {
     font-size: 13px;
     margin: 27px 0 15px;
     font-weight: 700;
-    text-transform: uppercase
+    text-transform: lowercase
 }
 
 .tagged-page-cta .tagged-page-cta-tag {
